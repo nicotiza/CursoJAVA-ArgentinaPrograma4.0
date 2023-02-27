@@ -1,6 +1,6 @@
+package Clase1;
 import java.util.Scanner;
-
-public class Main {
+public class Ejercicio1 {
     public static void main(String[] args) {
         //
         //
@@ -31,7 +31,7 @@ public class Main {
         //
         //
         /*------------------------ Salto de Línea ------------------------*/
-                                System.out.println("\n\n");
+        System.out.println("\n\n");
         /*------------------------ Salto de Línea ------------------------*/
         //
         //
@@ -151,5 +151,4 @@ public class Main {
             }
         }
     }
-
 }

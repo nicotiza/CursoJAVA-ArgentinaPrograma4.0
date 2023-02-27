@@ -1,3 +1,4 @@
+package Clase1;
 import java.util.Scanner;
 
 public class Ejercicio2 {
@@ -24,7 +25,7 @@ public class Ejercicio2 {
         if (ingresosTotales>=489083 || cantVehiculos>=3 && edadVehiculos<=5 || inmuebles>=3 || posesionesExtras) {
             System.out.println("Usted pertenece al segmento de ingresos Altos.");
         } else {
-            System.out.println("Usted no pertenece al segmento de ingresos Altos.\nÉsta fue una versión de prueba, para conocer su segmento correspondiente favor de adquirar la versión completa.\nCerrando sistema...");
+            System.out.println("Usted no pertenece al segmento de ingresos Altos.\nÉsta fue una versión de prueba, para conocer su segmento correspondiente favor de adquirir la versión completa.\nCerrando sistema...");
         }
     }
 }
